@@ -1,0 +1,218 @@
+
+.teambuilder { 
+    display:inline-block;
+    position: absolute;
+    border: 1px solid black;
+    background-color: aliceblue;
+    left:700px;
+    top:400px;
+    width:500px;
+    height: 300px;
+    font-size: 20px;  
+   text-align: center;
+    padding: 20px;
+    z-index: 3;
+}
+h1 { font-size: 50px;
+     font-family: 'Poppins', sans-serif;
+}
+h2 {font-size:70px;
+    font-family: Arial, Helvetica, sans-serif;
+    display:flex;
+    justify-content: center;
+width:500px}
+
+p {
+    font-size:20px;
+    padding:20px;
+    text-align: center;margin-bottom: 10px;
+    margin-bottom: 10px;   
+}
+
+
+button {
+    font-weight: 700;
+    height: 30px;
+    width:120px;
+    border-radius: 30px;
+    text-align: center;
+    display:inline-block;
+    position: absolute;
+    left:40px;
+    background-image:url("./greenyellow-handdrawn-watercolor-background-hight-quality_225753-10353.jpg")
+  
+}
+.ourpeople {position: absolute;
+    top:600px;
+    left:400px;
+    width:500px;
+    height:200px;
+    margin-top: 300px;
+    margin-left:100px;
+    padding:10px;
+
+    }
+    .scenery1 {   
+     position: relative;
+     margin-left: 100px;
+     top:100px;
+     left:200px;
+     z-index: 2;
+       
+    }
+     .scenery2 {
+        display: inline-block;
+        position: absolute;
+        right: 400px;
+        bottom:100px;
+        top: 200px;
+        right:200px;
+        margin-right:200px;
+        z-index: 1;  
+        padding-right:100px;
+    }
+    
+    .section2{ 
+    padding-top:650px;}
+.section3{display: flex;
+padding-top: 80px;
+justify-content: center;
+}
+
+.form{
+    display: flex;
+    padding-top: 30px;
+    flex-direction: column;
+    border-bottom: 2px solid black;
+    height: 40px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+span {
+    color: rgb(143, 222, 119);
+}
+.contact_us {padding-left: 30px;}
+input {background-color: transparent;
+border:0px solid}
+#message {height: 60px;}
+
+.participants {
+    display:flex;
+    flex-flow:row wrap;
+    column-gap: 50px;
+    row-gap: 30px;
+    align-items: center;
+    margin-top: 10px;
+    padding-left:300px;
+    height: 500px;
+    width:1000px;
+    border-radius:10px
+}
+.person1{
+    border:1px solid black;
+
+    border-radius: 5px;
+    height:250px;
+    width:200px;
+}
+.p1{height:100px;
+width:100px;
+border-radius: 50px;
+margin-left:45px;
+margin-top:10px;;
+border: 5px solid orange;}
+.person2{
+
+
+    border: 1px solid black;
+    border-radius: 5px;
+    height:250px;
+    width:200px;}
+.p2 {height:100px;
+    width:100px;
+    border-radius: 50px;
+    margin-left:45px;
+    margin-top:10px;;
+    border: 5px solid orange;}
+.person3 {
+    border:1px solid black;
+    border-radius: 5px;
+    height:250px;
+    width:200px;
+}
+.p3 {
+    height:100px;
+    width:100px;
+    border-radius: 50px;
+    margin-left:45px;
+    margin-top:10px;;
+    border: 5px solid orange;
+}
+.person4 {
+    border:1px solid black;
+    border-radius: 5px;
+    height:250px;
+    width:200px;
+}
+.p4 {height:100px;
+    width:100px;
+    border-radius: 50px;
+    margin-left:45px;
+    margin-top:10px;;
+    border: 5px solid orange;}
+.person5 {
+    border:1px solid black;
+    border-radius: 5px;
+    height:250px;
+    width:200px;}
+.p5 {height:100px;
+    width:100px;
+    border-radius: 50px;
+    margin-left:45px;
+    margin-top:10px;;
+    border: 5px solid orange;}
+.person6 {
+    border:1px solid black;
+    border-radius: 5px;
+    height:250px;
+    width:200px;
+}
+.p6 {
+    height:100px;
+    width:100px;
+    border-radius: 50px;
+    margin-left:45px;
+    margin-top:10px;;
+    border: 5px solid orange;
+}
+.person7 {
+    border:1px solid black;
+    border-radius: 5px;
+    height:250px;
+    width:200px;
+}
+.p7 {height:100px;
+    width:100px;
+    border-radius: 50px;
+    margin-left:45px;
+    margin-top:10px;;
+    border: 5px solid orange;}
+.person8 {
+    border:1px solid black;
+    border-radius: 5px;
+    height:250px;
+    width:200px;
+}
+.p8 {
+    height:100px;
+    width:100px;
+    border-radius: 50px;
+    margin-left:45px;
+    margin-top:10px;;
+    border: 5px solid orange;}
+
+    h3 {font-size: 20px;
+    font-weight: bold;
+    margin-left:40px;
+    margin-top:10px;
+}
